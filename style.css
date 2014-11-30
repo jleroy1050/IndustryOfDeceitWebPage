@@ -1,0 +1,9 @@
+body {
+	background-image: url("LoginBackground.jpg");
+	background-size: cover;
+}
+gameTitle {
+	font-family: "Comic Sans MS";
+	font-size: 48px;
+	color: azure;
+}
